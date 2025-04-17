@@ -1,4 +1,4 @@
-# Contador Java
+# Contador Java Desafio DIO
 
 Este projeto Java simples demonstra o uso de exceções personalizadas e controle de fluxo básico para contar e imprimir números entre dois parâmetros fornecidos pelo usuário.
 
